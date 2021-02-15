@@ -1,0 +1,15 @@
+*{
+background-color: dodgerblue;}
+
+/* _____________________________ */
+
+h1
+{
+    text-align: center;
+}
+
+section,h2,p
+{
+    background-color: crimson;
+    text-align: center;
+}
